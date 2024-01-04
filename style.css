@@ -292,6 +292,7 @@ padding: 10px 20px ;
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 .testimonial-col {
