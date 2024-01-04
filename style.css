@@ -252,14 +252,14 @@ html{
   position: absolute;
   left: 100px;
   bottom: 0;
-  transition: 0.8s;
+  transition: all  0.5s;
   color: white;
   opacity: 0;
   width: 480px;
 }
 
 .single-service:hover .desc {
-  bottom: 36%;
+  transform: translateY(-80px);
   opacity: 1;
 }
 
